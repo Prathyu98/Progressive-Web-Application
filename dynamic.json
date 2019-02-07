@@ -1,0 +1,44 @@
+		{
+	"profile":{
+		"img":"images/picture.jpg",
+		"name":"Caroline",
+		"roll":"16A31A0583",
+		"Institute":"Mystic Falls High School",
+		"Place":"New orleans"
+	},
+	"Career":{
+		"info":"to secure a challenging position where i can explore my talents"
+	},
+	"Educational":[
+		{
+			"No":"1.",
+			"Degree":"B.Tech",
+			"Institute" :"xxx",
+			"YOP":"2018"
+		},
+		{
+			"No":"2.",
+			"Degree":"Intermediate",
+			"Institute" :"xxx",
+			"YOP":"2014"
+		},
+		{
+			"No":"3.",
+			"Degree":"S.S.c",
+			"Institute" :"xxx",
+			"YOP":"2012"
+		}
+
+	],
+	"Languages":[
+	 {
+	 	"lang":"English"
+	 },
+	  {
+	 	"lang":"Hindi"
+	 },
+	  {
+	 	"lang":"Telugu"
+	 }
+	]
+}

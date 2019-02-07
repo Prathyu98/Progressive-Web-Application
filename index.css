@@ -1,0 +1,27 @@
+body
+{
+	background:rosybrown;
+}
+#maindiv{
+	display: flex;
+	background:lightcyan;
+	justify-content: space-around;
+	margin: 10%;
+	border-radius: 5%;
+}
+.subdiv{
+	width: 60%;
+	background:bisque;
+	margin: 3%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+	
+}
+
+img{
+	height: 45%;
+	margin: 5%;
+	border-radius: 4%;
+	width:70%;
+}
